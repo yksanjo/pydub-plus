@@ -1,0 +1,2 @@
+"""Tests for pydub-plus"""
+
